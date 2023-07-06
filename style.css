@@ -59,3 +59,23 @@ cursor: pointer;
 .bttn:hover{
     color:black;
 }
+.banrr-text{
+    color:black;
+}
+.about-container{
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    padding-top: 50px;
+ 
+}
+.about-ush1{
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.about-text{
+    margin-top: 20px;
+    
+}
