@@ -20,8 +20,42 @@ font-family: sans-serif;
 .menus-1{
 color:white;
 display: flex;
+cursor: pointer;
 }
 .list-style{
     margin-right: 20px;
     font-weight: bold;
+}
+.list-style:hover{
+    color:blue;
+
+}
+.banner-container{
+    background-image:url("/images/background.png");
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    height: 100vh;
+    background-color:rgb(43, 38, 38) ;
+}
+.banner-imge{
+    width: 400px;
+}
+.header{
+    font-weight: bold;
+    color: white;
+}
+.banr-text{
+    margin-top: 10px;
+    color:white;
+}
+.bttn{
+    margin-top: 20px;
+    padding: 10px;
+    background-color:tomato ;
+    color: white;
+    border: none;
+}
+.bttn:hover{
+    color:black;
 }
