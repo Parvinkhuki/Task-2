@@ -137,11 +137,13 @@ cursor: pointer;
 }
 .hr{
     color:rgb(233, 38, 38);
+    margin-bottom: 50px;
     
 }
 .copy{
 
     color:white;
+   
 }
 .copy1{
     background-color: black;
